@@ -8,6 +8,7 @@ package detailsstudent;
  * entity - student - model class
  * @author kumar
  * date 24
+ * test
  */
 public class Student 
 {
